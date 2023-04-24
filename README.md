@@ -3,9 +3,7 @@
 <!--
 **kristodg/kristodg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning Java
+###- 🌱 I’m currently learning Java
 - 🤔 New knowledge is always welcome
 - 📫 How to reach me:
     !\[@kristodg\](![image](https://user-images.githubusercontent.com/110673886/234055870-30363ff2-2025-4a4d-a136-ac38cf757a9e.png)
