@@ -1,12 +1,14 @@
-### Hi there, I am Kristiana 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone, It's Kris!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+<a href=
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+<a href="https://www.facebook.com/settings?tab=account&section=username"
+<img height="50" src="https://user-images.githubusercontent.com/110673886/234058020-bbd4e9ad-b3ff-4fe1-943d-990e2774b0cf.png"/>
+</a>
+<a href=""
+<img height="50" src="![image](https://user-images.githubusercontent.com/110673886/234062334-8d7bb83a-4e4c-495c-9fb8-afe8101a2306.png)
+"/>
+</a>
 
-<!--
-**kristodg/kristodg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-###- 🌱 I’m currently learning Java
-- 🤔 New knowledge is always welcome
-- 📫 How to reach me:
-    !\[@kristodg\](![image](https://user-images.githubusercontent.com/110673886/234055870-30363ff2-2025-4a4d-a136-ac38cf757a9e.png)
-    !\[Kristiana Georgieva\](![image](https://user-images.githubusercontent.com/110673886/234056163-cd05eeb2-65ec-4c2e-a99e-d09e58c13e60.png)
-    !\[Kristiana T. Georgieva\](![image](https://user-images.githubusercontent.com/110673886/234056408-b58db65c-595a-4aba-8037-66cc4136d5ee.png)
-- ⚡ Fun fact: I am the mother of cats!
