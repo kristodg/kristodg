@@ -1,14 +1,16 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone, It's Kris!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+<h1 align="center">Hi 👋, I'm Kris</h1>
+<h3 align="center">A passionate student from Bulgaria</h3>
+
+- 🌱 I’m currently learning **Java, JavaScript, HTML & CSS**
+
+- 📫 How to reach me **kristiana.t.georgieva@gmail.com**
+
+- ⚡ Fun fact **I can write your code today, tomorrow I can finish your chemistry exam.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
-<a href=
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
-<a href="https://www.facebook.com/settings?tab=account&section=username"
-<img height="50" src="https://user-images.githubusercontent.com/110673886/234058020-bbd4e9ad-b3ff-4fe1-943d-990e2774b0cf.png"/>
-</a>
-<a href=""
-<img height="50" src="![image](https://user-images.githubusercontent.com/110673886/234062334-8d7bb83a-4e4c-495c-9fb8-afe8101a2306.png)
-"/>
-</a>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
